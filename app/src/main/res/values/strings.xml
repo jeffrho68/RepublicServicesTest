@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Republic Services</string>
+    <string name="driver_screen_title">Drivers</string>
+    <string name="route_screen_title">Routes</string>
+
+    <string name="back_button">Back</string>
+    <string name="sort_button">Sort</string>
+
+    <string name="id_label">Id:</string>
+    <string name="name_label">Name:</string>
+    <string name="type_label">Type:</string>
+
+    <string name="routes_title">Routes for %s:</string>
+
+    <string name="generic_error_message">An unexpected error occurred!</string>
+
+</resources>
